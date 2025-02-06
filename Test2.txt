@@ -1,1 +1,6 @@
-changing 1 by devA
+<<<<<<< HEAD
+changing 2 by devA ## this is the new change after git pull
+
+=======
+changing 1 by Dev B
+>>>>>>> 2a6d29364bd1f2b65b37f26f1af64450c1b48bce
